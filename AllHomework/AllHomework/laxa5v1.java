@@ -13,7 +13,7 @@ public class laxa5v1 {
     }
 
     public static void lol() {
-        System.out.println("HAHAHAHAHAHAHA");
+        System.out.println("HAHHAHA");
     }
 public static int max(int tal1, int tal2) {
 
